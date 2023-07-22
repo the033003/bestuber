@@ -9,7 +9,7 @@
       "stopAtEntry": false,
       "externalConsole": true,
       "cwd": "c:/Users/Luke/Desktop/capp",
-      "program": "c:/Users/Luke/Desktop/capp/build/Debug/outDebug",
+      "program": "c:/Users/Luke/Desktop/capp/build/Release/outRelease",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [

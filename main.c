@@ -2,7 +2,8 @@
 
 int main() {
 
-    printf("test");
+    printf("Animble\n");
+    printf("https://www.youtube.com/@animble\n");
 
     return 0;
 }
